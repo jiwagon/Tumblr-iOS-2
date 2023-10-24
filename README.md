@@ -27,7 +27,7 @@ The following **additional** features are implemented:
       <p>Watch App Demo in gif (Right click here or image below to open in a new tab)</p>
     </a>
     <a href="https://i.imgur.com/516wiJZ.gif">
-      <img style="max-width:300px;" src="https://i.imgur.com/nnFYgcch.gif" width="300" height="632">
+      <img style="max-width:300px;" src="https://i.imgur.com/516wiJZ.gif" width="300" height="632">
     </a>
   </div>
 
