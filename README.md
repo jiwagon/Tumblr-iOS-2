@@ -4,7 +4,7 @@ Submitted by: Ji Zhang
 
 This simple Tumblr API Feed is an app that fetches a feed of blog posts from the Tumblr API and displays them in a scrolling list via a table view. Users can pull to refresh and view more posts alternating content from two Tumblr accounts. The posts are shuffled to display in random order.
 
-Time spent: 4 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -22,9 +22,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://i.imgur.com/516wiJZ.gif">
+      <p>Watch App Demo in gif (Right click here or image below to open in a new tab)</p>
+    </a>
+    <a href="https://i.imgur.com/516wiJZ.gif">
+      <img style="max-width:300px;" src="https://i.imgur.com/nnFYgcch.gif" width="300" height="632">
+    </a>
+  </div>
 
 ## Notes
 
