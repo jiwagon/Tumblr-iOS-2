@@ -12,8 +12,8 @@ The following **required** functionality is completed:
 
 - [X] Setup navigation to the Detail Screen
 - [X] Created the Detail View UI
-- [ ] Add the ability to pass data to the Detail View Controller
-- [ ] Made personal finishing touches to the UI
+- [X] Add the ability to pass data to the Detail View Controller
+- [X] Made personal finishing touches to the UI
 
 
 The following **additional** features are implemented:
@@ -23,17 +23,17 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://i.imgur.com/516wiJZ.gif">
+    <a href="https://i.imgur.com/0cfWqXN.gif">
       <p>Watch App Demo in gif (Right click here or image below to open in a new tab)</p>
     </a>
-    <a href="https://i.imgur.com/516wiJZ.gif">
-      <img src="https://i.imgur.com/516wiJZ.gif" width="300" height="632">
+    <a href="https://i.imgur.com/0cfWqXN.gif">
+      <img src="https://i.imgur.com/0cfWqXN.gif" width="300" height="632">
     </a>
   </div>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was stuck at passing the caption and image data from my view controller to the detail view controller for a long time. However, I eventually was able to use Lab 6 notes to understand the structure better and resolve the difficulty I faced. 
 
 ## License
 
